@@ -9,6 +9,7 @@ The website demonstrates the use of **Tailwind CSS utility classes** to create r
 * Responsive design for mobile, tablet, and desktop screens
 
 * Home page with:
+
   * Hero section
   * About Us section
   * Best Sellers
@@ -16,6 +17,7 @@ The website demonstrates the use of **Tailwind CSS utility classes** to create r
   * Newsletter subscription section
 
 * Products page with:
+
   * Responsive product grid
   * Product images
   * Product names and prices
@@ -23,14 +25,19 @@ The website demonstrates the use of **Tailwind CSS utility classes** to create r
   * Search input
 
 * Contact page with:
+
   * Contact information
   * Contact form
   * Name, email, and message fields
 
 * Responsive navigation bar
+
 * Navigation between Home, Products, and Contact pages
+
 * Mobile-friendly layouts
+
 * Hover and transition effects using Tailwind CSS
+
 * Semantic HTML and accessible labels/alt text
 
 ## Technologies Used
@@ -67,7 +74,8 @@ Tailwind CSS responsive utilities are used to adapt the design according to the 
 
 You can visit the live Greenden website here:
 
-**Live Website:** https://rojashree03.github.io/Greenden-TailwindCss/
+**Live Website:**
+https://rojashree03.github.io/Greenden-TailwindCss/
 
 The website is hosted using **GitHub Pages** and can be accessed directly from a web browser.
 
@@ -75,8 +83,8 @@ The website is hosted using **GitHub Pages** and can be accessed directly from a
 
 You can view the complete source code here:
 
-**Repository:** https://github.com/RojaShree03/Greenden-TailwindCss
-
+**Repository:**
+https://github.com/RojaShree03/Greenden-TailwindCss
 
 ## Project
 
